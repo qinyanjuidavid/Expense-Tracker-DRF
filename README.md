@@ -26,4 +26,8 @@
   - `amount` The amount of the expense.
   - `paid_to` The person or organization to which the expense was paid to
 
-> I had all the Crud operations for both Expense and ExpenseType
+> I had all the CRUD operations for both Expense and ExpenseType, Below are the images to the Swagger UI;
+#### Expense Type
+![ExpenseType](https://github.com/qinyanjuidavid/Expense-Tracker-DRF/assets/49823575/1f73d0a7-7a00-47b0-85c8-9468ee3012fd)
+#### Expense
+![Expense](https://github.com/qinyanjuidavid/Expense-Tracker-DRF/assets/49823575/cf768cd7-13c2-483c-a5a5-da06fff29ad8)
