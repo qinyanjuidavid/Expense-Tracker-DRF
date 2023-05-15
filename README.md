@@ -1,6 +1,6 @@
 # Expense-Tracker-DRF
 ### Project Setup
-  - Clone using the command `git clone https://github.com/qinyanjuidavid/Tabibu-Health-Care-API.git`
+  - Clone the project using the command `git clone https://github.com/qinyanjuidavid/Tabibu-Health-Care-API.git`
   - Change to the project directory using the command `cd expenseTracker`
   - Ensure you have Python 3.8 and above installed
   - Install virtualenv using the command `pip install virtualenv`
